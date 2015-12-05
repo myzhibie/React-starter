@@ -5,7 +5,8 @@ As you can see this [tutorial](http://facebook.github.io/react/docs/tutorial. ht
 
 * start a simple server to load resource and do some stuff with backend.
 * you can download external libraries such as `React.js` or `React-dom.js` via npm and compile them in your devices as you want.
-* with a babelrc file based configuration, you just focus on bundling `.js` files without considering the presets of babel.you can write code with `jsx` and `ES20115`.
+* with a babelrc file based configuration, you just focus on bundling `.js` files without considering the presets of babel.you can write code with `jsx` and `ES2015`.
+
 ## How to do
 * download this repo via zip or git
 ``` git clone https://github.com/myzhibie/React-starter.git ```
