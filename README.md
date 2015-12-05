@@ -31,5 +31,6 @@ this command will bundle the source code you write with its dependencies and tra
 * start a server
 ``` node server.js ```
 * preview `index.html` in [localhost:3000](http://localhost:3000) 
+
 ##Next step
 the next step you have to do is following [this tutorial](http://facebook.github.io/react/docs/tutorial. html) and  do the other work,enjoy your learning!
